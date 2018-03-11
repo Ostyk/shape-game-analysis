@@ -2,8 +2,6 @@
 This is a Deep learning project I did as part of a recruitment process for Unit9.
 
 
-This is a testing task that has been written by Michal Ostyk-Narbutt for Unit9
-
 ### What is this repository for? ###
 * 1.0
 * Prove the feasibility of creating a shape drawing game for kids
